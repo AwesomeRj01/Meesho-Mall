@@ -19,10 +19,8 @@ We use the standard color scheme that Meesho follows and tried to incorporate th
 ![Screenshot-4](./doc_assets/ClothsTryOn.jpeg)
 
 
-# Team Details:
-**Team Name** : PSEUDOCODE
 
 **Contributers**:
-1. [Aditya Singh](https://www.linkedin.com/in/aditya-singh-95109b311/)
-2. [Rishabh Jain](https://www.linkedin.com/in/awesome-rishabh-jain/)
+1. [Rishabh Jain](https://www.linkedin.com/in/awesome-rishabh-jain/)
+2. [Aditya Singh](https://www.linkedin.com/in/aditya-singh-95109b311/)
 3. [Shrujai Gupta](https://www.linkedin.com/in/shrujaigupta/)
